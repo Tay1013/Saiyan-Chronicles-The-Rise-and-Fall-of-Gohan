@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px; /* Adjust font size as needed */
+    line-height: 1.5;
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', serif; /* Or any other serif font you prefer */
+    font-weight: bold;
+}
+
+p {
+    text-align: justify; /* Justify text for a cleaner look */
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
